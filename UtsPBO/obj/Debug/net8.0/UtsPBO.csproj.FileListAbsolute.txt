@@ -1,0 +1,12 @@
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\bin\Debug\net8.0\UtsPBO.deps.json
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\bin\Debug\net8.0\UtsPBO.dll
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\bin\Debug\net8.0\UtsPBO.pdb
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.AssemblyInfoInputs.cache
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.AssemblyInfo.cs
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.dll
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\refint\UtsPBO.dll
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.pdb
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\ref\UtsPBO.dll
+C:\Users\lenov\Downloads\winform praktikum\Uas PBO\UtsPBO\UtsPBO\obj\Debug\net8.0\UtsPBO.csproj.Up2Date
